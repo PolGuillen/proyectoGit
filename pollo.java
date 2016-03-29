@@ -1,4 +1,4 @@
-public class pollo{
+public class POLE{
 
 	public String orto;
 	private double peso;
