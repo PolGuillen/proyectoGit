@@ -1,5 +1,5 @@
 public class POLE{
-
+//YUNG BEEF
 	public String orto;
 	private double peso;
 	private String nombre;
