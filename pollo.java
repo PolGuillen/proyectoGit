@@ -3,6 +3,6 @@ public class pollo{
 	private String nombre;
 	public pollo(double peso, String nombre){
 		this.peso = peso;
-		this.noombre = nombre;
+		this.nombre = nombre;
 	}
 }
