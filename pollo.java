@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-public class pollo{
-	public String pole = "pole";
-=======
+
 public class POLE{
 <<<<<<< HEAD
 //YUNG BEEF
