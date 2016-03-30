@@ -1,7 +1,5 @@
-public class POLE{
+public class Pollo{
 //YUNG BEEF
-
-
 	public String nombre;
 	private double peso;
 	private String nombre;
