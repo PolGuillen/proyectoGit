@@ -3,7 +3,11 @@
 public class POLE{
 //YUNG BEEF
 //pfffff
+<<<<<<< HEAD
 caca primos 
+=======
+caca
+>>>>>>> e8867ff861dadd1673d1bd2ddbb1f04d9709109c
 =======
 public class Pollo{
 //YUNG BEEF
